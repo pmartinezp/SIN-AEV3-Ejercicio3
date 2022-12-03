@@ -1,1 +1,1 @@
-Información general del proyecto
+Ejercicio de repositorios remotos
